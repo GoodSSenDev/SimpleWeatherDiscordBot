@@ -1,0 +1,11 @@
+C:\Users\ho2\Documents\Programing\DiscordBot\SimpleWeatherBot\SimpleWeatherBot\bin\Debug\netcoreapp2.1\SimpleWeatherBot.deps.json
+C:\Users\ho2\Documents\Programing\DiscordBot\SimpleWeatherBot\SimpleWeatherBot\bin\Debug\netcoreapp2.1\SimpleWeatherBot.runtimeconfig.json
+C:\Users\ho2\Documents\Programing\DiscordBot\SimpleWeatherBot\SimpleWeatherBot\bin\Debug\netcoreapp2.1\SimpleWeatherBot.runtimeconfig.dev.json
+C:\Users\ho2\Documents\Programing\DiscordBot\SimpleWeatherBot\SimpleWeatherBot\bin\Debug\netcoreapp2.1\SimpleWeatherBot.dll
+C:\Users\ho2\Documents\Programing\DiscordBot\SimpleWeatherBot\SimpleWeatherBot\obj\Debug\netcoreapp2.1\SimpleWeatherBot.csprojAssemblyReference.cache
+C:\Users\ho2\Documents\Programing\DiscordBot\SimpleWeatherBot\SimpleWeatherBot\obj\Debug\netcoreapp2.1\SimpleWeatherBot.csproj.CoreCompileInputs.cache
+C:\Users\ho2\Documents\Programing\DiscordBot\SimpleWeatherBot\SimpleWeatherBot\obj\Debug\netcoreapp2.1\SimpleWeatherBot.AssemblyInfoInputs.cache
+C:\Users\ho2\Documents\Programing\DiscordBot\SimpleWeatherBot\SimpleWeatherBot\obj\Debug\netcoreapp2.1\SimpleWeatherBot.AssemblyInfo.cs
+C:\Users\ho2\Documents\Programing\DiscordBot\SimpleWeatherBot\SimpleWeatherBot\bin\Debug\netcoreapp2.1\SimpleWeatherBot.pdb
+C:\Users\ho2\Documents\Programing\DiscordBot\SimpleWeatherBot\SimpleWeatherBot\obj\Debug\netcoreapp2.1\SimpleWeatherBot.dll
+C:\Users\ho2\Documents\Programing\DiscordBot\SimpleWeatherBot\SimpleWeatherBot\obj\Debug\netcoreapp2.1\SimpleWeatherBot.pdb
